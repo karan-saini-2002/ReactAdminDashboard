@@ -1,0 +1,13 @@
+/* src/components/Sidebar.css */
+.MuiDrawer-paper {
+    width: 240px;
+  }
+  
+  .MuiListItem-root {
+    padding: 10px 20px;
+  }
+  
+  .MuiListItem-root:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+  

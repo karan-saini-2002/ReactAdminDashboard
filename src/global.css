@@ -1,0 +1,13 @@
+/* src/global.css */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  main {
+    margin-left: 240px;
+    padding: 20px;
+  }
+  

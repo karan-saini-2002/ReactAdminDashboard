@@ -1,0 +1,14 @@
+/* src/pages/Tables.css */
+.data-grid-container {
+    height: 400px;
+    width: 100%;
+  }
+  
+  .MuiDataGrid-root {
+    border: none;
+  }
+  
+  .MuiDataGrid-cell {
+    padding: 8px;
+  }
+  
